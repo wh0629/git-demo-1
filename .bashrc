@@ -1,0 +1,1 @@
+export PATH="/c/Users/huan/Desktop/local:$PATH"
